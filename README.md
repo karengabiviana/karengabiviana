@@ -4,7 +4,7 @@
 
 😄 Pronouns: She/Her
 
-👩🏽‍💻 I am a Software Engineer Jr. (Engineer Generation) at SumUp
+👩🏽‍💻 I am a Software Engineer Trainee (Engineer Generation) at SumUp
 
 🔭 I am currently working on iOS mobile development
 
