@@ -10,7 +10,7 @@
 
 🔭 I am currently working on my own [iOS app](https://github.com/karengabiviana/TravelPlannerApp) 
 
-📖 I am studying architecture and design patterns with Pokédex project
+📖 I am studying architecture and design patterns with [Pokédex project](https://github.com/karengabiviana/Pok-dex)
 
 <!--
 **karengabiviana/karengabiviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
