@@ -4,6 +4,8 @@
 
 😄 Pronouns: She/Her
 
+📚 I am studing Systems Analysis and Development at FATEC
+
 👩🏽‍💻 I am sharing knowlegde about Swift by my [Youtube channel](https://www.youtube.com/channel/UCEi01D1LfPSAoGjOH3P-low) 
 
 🌱 I’m currently learning Swift
