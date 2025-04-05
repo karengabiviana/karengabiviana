@@ -8,7 +8,7 @@
 
 👩🏽‍💻 I am sharing knowlegde about Swift by my [Youtube channel](https://www.youtube.com/channel/UCEi01D1LfPSAoGjOH3P-low) 
 
-🌱 I’m currently learning Swift
+🌱 I’m currently learning **Swift**, **C** and **C#**
 
 🔭 I am currently working on my own [iOS app](https://github.com/karengabiviana/TravelPlannerApp) 
 
